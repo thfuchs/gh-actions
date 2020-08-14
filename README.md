@@ -10,4 +10,15 @@ The following workflows are served for every R-related package (standardized):
 - lintr to suggest linting changes
 - covr to calculate and report (in HTML) overall testing and example coverage of the package
 
-For more information on GitHub Action Workflows for R, see the [r-lib/actions](https://github.com/r-lib/actions) repo
+# More information
+
+### In General
+- [GH Action Docs](https://help.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions)
+
+### GH Actions for R
+- [Intro Video from RStudio Conference 2020](https://www.jimhester.com/talk/2020-rsc-github-actions/)
+- [Ropensci GitHub Actions Quick Intro](https://ropenscilabs.github.io/actions_sandbox/)
+- [Detailed Intro](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
+
+### Examples
+- [R-Lib](https://github.com/r-lib/actions/blob/master/examples/README.md)
