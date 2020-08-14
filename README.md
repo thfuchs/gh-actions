@@ -10,7 +10,7 @@ The following workflows are served for every R-related package (standardized):
 - lintr to suggest linting changes
 - covr to calculate and report (in HTML) overall testing and example coverage of the package
 
-# More information
+## More information
 
 ### In General
 - [GH Action Docs](https://help.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions)
